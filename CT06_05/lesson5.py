@@ -14,6 +14,6 @@
 #    print("give me a:" + letter) 
 #print("What do we have?")
 #print("David is the best!")
-food = ("I like chicken rice.")
-for i in range(100):
-    print(food)
+#food = ("I like chicken rice.")
+#for i in range(100):
+#    print(food)
