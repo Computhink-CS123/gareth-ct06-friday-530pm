@@ -9,3 +9,4 @@
 #name = "supercalifragilisticexpilidotios"
 #for letter in name:
 #    print("say:" + name)
+input=()
