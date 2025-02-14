@@ -7,5 +7,5 @@
 #    print ("inside the loop")
 #print ("after the loop")
 name = "supercalifragilisticexpilidotios"
-for spelling in name:
+for letter in name:
     print("say:" + name)
