@@ -8,7 +8,7 @@
 #print ("after the loop")
 #name = "supercalifragilisticexpilidotios"
 #for letter in name:
-#    print("say:" + name)
+#    print("say:" + letter)
 name = input("What is your name?")
 for letter in name:
     print("give me a ") 
