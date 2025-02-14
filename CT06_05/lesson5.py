@@ -16,6 +16,6 @@
 #print("David is the best!")
 #food = ("I for i in range(100):
 #    print(food)
-for v in range(100):
-    print("I like cake.")
-    print("Give me more")
+#for v in range(100):
+#    print("I like cake.")
+#    print("Give me more")
