@@ -44,4 +44,4 @@
 
 num1 = input("enter a number")
 num2 = input("enter a number")
-num3 = input("are you counting up or down? enter -1 for count down and ")
+num3 = input("are you counting up or down? enter -1 for count down and enter 1 for count up")
