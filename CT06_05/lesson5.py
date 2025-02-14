@@ -46,4 +46,4 @@ num1 = input("enter a number")
 num2 = input("enter a number")
 num3 = input("are you counting up or down? enter -1 for count down and enter 1 for count up")
 for y in range(num1,num2,num3):
-    print
+    print(y)
