@@ -1,1 +1,1 @@
-bdayname = 
+bdayname = input("")
