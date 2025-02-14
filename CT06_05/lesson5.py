@@ -11,4 +11,4 @@
 #    print("say:" + name)
 name = input("What is your name?")
 for letter in name:
-    print() 
+    print("give me a ") 
