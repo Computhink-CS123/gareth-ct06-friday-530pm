@@ -1,1 +1,1 @@
-bdayname = input("what is the name of ")
+bdayname = input("what is the name of the birthday person")
