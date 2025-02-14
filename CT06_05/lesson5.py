@@ -21,9 +21,9 @@
 #    print("Give me more")
 #for num in range(0,59):
 #    print(num)
-for num in range(1,5):
-    print(num)
-for mun in range(51,100):
+#for num in range(1,5):
+#    print(num)
+#for mun in range(51,100):
     print(mun)
 for nmu in range(18,29):
     print(nmu)
