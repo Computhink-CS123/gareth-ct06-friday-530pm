@@ -36,7 +36,7 @@
 for num in range(3,0,-1):
     print("ready?")
     print(num)
-    print("go!")
+print("go!")
 
 for mun in range(10,0,-1):
     print(mun)
