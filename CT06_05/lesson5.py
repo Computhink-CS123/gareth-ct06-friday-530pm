@@ -23,7 +23,7 @@
 #    print(num)
 #for num in range(1,5):
 #    print(num)
-#for m
+#for mun in range()
 #    print(mun)
 #for nmu in range(18,29):
 #    print(nmu)
