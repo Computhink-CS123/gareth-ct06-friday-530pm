@@ -25,5 +25,5 @@ for num in range(1,5):
     print(num)
 for mun in range(51,100):
     print(mun)
-for nmu in range(1,5):
+for nmu in range(18,):
     print(nmu)
