@@ -31,5 +31,5 @@ for num in range(2,24,2):
     print(num)
 for mun in range(8,96,8):
     print(mun)
-for num in range(1,5):
+for nmu in range(5,1):
     print(num)
