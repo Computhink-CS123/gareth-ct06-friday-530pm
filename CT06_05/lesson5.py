@@ -23,5 +23,5 @@
 #    print(num)
 for num in range(1,5):
     print(num)
-for num in range(1,5):
-    print(num)
+for mun in range(1,5):
+    print(mun)
