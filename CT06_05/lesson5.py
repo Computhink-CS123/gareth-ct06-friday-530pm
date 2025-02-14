@@ -16,4 +16,4 @@
 #print("David is the best!")
 food = ("I like chicken rice.")
 for i in range(100):
-    print()
+    print(food)
