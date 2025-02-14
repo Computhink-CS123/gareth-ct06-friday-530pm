@@ -33,3 +33,5 @@
 #    print(mun)
 #for nmu in range(5,0,-1):
 #    print(nmu)
+for num in range(3,5):
+    print(num)
