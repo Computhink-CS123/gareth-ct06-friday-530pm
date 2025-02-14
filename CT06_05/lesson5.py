@@ -45,6 +45,6 @@
 num1 = input("enter a number")
 num2 = input("enter a number")
 if num1 > num2:
-    num
+    num3 = -1
 for y in range(num1,num2,num3):
     print(y)
