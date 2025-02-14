@@ -6,4 +6,6 @@
 #for counter in range(5):
 #    print ("inside the loop")
 #print ("after the loop")
-name = "supercalifragilisticexpilidosios"
+name = "supercalifragilisticexpilidotios"
+for spelling in name:
+    print
