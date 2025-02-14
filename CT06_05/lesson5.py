@@ -6,6 +6,6 @@
 #for counter in range(5):
 #    print ("inside the loop")
 #print ("after the loop")
-name = "supercalifragilisticexpilidotios"
-for letter in name:
-    print("say:" + name)
+#name = "supercalifragilisticexpilidotios"
+#for letter in name:
+#    print("say:" + name)
