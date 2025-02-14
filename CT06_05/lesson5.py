@@ -43,6 +43,7 @@
 #print("boom!")
 
 num1 = input("enter a number")
+
 num2 = input("enter a number")
 if num1 > num2:
     num3 = -1
