@@ -1,3 +1,3 @@
 bdayname = input("what is the name of the birthday person?")
 bdayage = input("what is the age of the birthday person?")
-bdaymes = input("what is the pesonalised message the brthday")
+bdaymes = input("what is the pesonalised message the birthday")
