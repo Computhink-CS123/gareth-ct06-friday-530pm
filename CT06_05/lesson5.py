@@ -36,4 +36,4 @@
 for num in range(3,0,-1):
     print("ready?")
     print(num)
-    print("ready?")
+    print("go!")
