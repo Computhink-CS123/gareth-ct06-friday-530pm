@@ -37,7 +37,7 @@
 #for num in range(3,0,-1):
 #    print(num)
 #print("go!")
-
-for mun in range(10,0,-1):
-    print(mun)
+#
+#for mun in range(10,0,-1):
+#    print(mun)
 print("boom!")
