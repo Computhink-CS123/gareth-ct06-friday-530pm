@@ -10,4 +10,5 @@
 #for letter in name:
 #    print("say:" + name)
 name = input("What is your name?")
- 
+for letter in name:
+    print() 
