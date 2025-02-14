@@ -42,4 +42,4 @@
 #    print(mun)
 #print("boom!")
 
-num1 = input("")
+num1 = input("enter a number")
