@@ -33,10 +33,10 @@
 #    print(mun)
 #for nmu in range(5,0,-1):
 #    print(nmu)
-print("ready?")
-for num in range(3,0,-1):
-    print(num)
-print("go!")
+#print("ready?")
+#for num in range(3,0,-1):
+#    print(num)
+#print("go!")
 
 for mun in range(10,0,-1):
     print(mun)
