@@ -21,3 +21,5 @@
 #    print("Give me more")
 #for num in range(0,59):
 #    print(num)
+for num in range(0,59):
+    print(num)
