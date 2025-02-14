@@ -18,4 +18,4 @@
 #    print(food)
 for v in range(100):
     print("I like cake.")
-    print
+    print("Give me more")
