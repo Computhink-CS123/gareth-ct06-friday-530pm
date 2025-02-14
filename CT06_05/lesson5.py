@@ -17,4 +17,5 @@
 #food = ("I for i in range(100):
 #    print(food)
 for v in range(100):
-    print("")
+    print("I like cake.")
+    pr
