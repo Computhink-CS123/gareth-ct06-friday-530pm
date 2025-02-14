@@ -5,3 +5,4 @@
 print ("before the loop")
 for counter in range(5):
     print ("inside the loop")
+print ("")
