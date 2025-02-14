@@ -8,5 +8,4 @@
 #print ("after the loop")
 name = "supercalifragilisticexpilidotios"
 for spelling in name:
-    print("say:" 
-          )
+    print("say:" + str)
