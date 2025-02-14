@@ -27,9 +27,9 @@
 #    print(mun)
 #for nmu in range(18,29):
 #    print(nmu)
-for num in range(2,24,2):
-    print(num)
-for mun in range(8,96,8):
-    print(mun)
-for nmu in range(5,0,-1):
-    print(nmu)
+#for num in range(2,24,2):
+#    print(num)
+#for mun in range(8,96,8):
+#    print(mun)
+#for nmu in range(5,0,-1):
+#    print(nmu)
