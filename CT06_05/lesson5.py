@@ -4,5 +4,5 @@
 #print (str(bdayname) + " is now " + str(bdayage) + " and invites you to their birthday party!The more the merrier." + str(bdaymes))
 #print ("before the loop")
 #for counter in range(5):
-    print ("inside the loop")
-print ("after the loop")
+#    print ("inside the loop")
+#print ("after the loop")
