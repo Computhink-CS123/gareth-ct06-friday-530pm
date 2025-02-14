@@ -29,3 +29,5 @@
 #    print(nmu)
 for num in range(2,24,2):
     print(num)
+for num in range(1,5):
+    print(num)
