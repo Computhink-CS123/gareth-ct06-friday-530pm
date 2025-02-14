@@ -9,4 +9,5 @@
 #name = "supercalifragilisticexpilidotios"
 #for letter in name:
 #    print("say:" + name)
-input=("What is your name?")
+name = input("What is your name?")
+ 
