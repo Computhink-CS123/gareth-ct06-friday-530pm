@@ -72,4 +72,6 @@ for count in range(tries):
         print("you got it! the number is " , hidden)
         correct = True
         break
+if not correct:
+    print
 print("Game over")
