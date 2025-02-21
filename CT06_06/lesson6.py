@@ -1,1 +1,1 @@
-print("Hello from lesson 6")
+num1 = input
