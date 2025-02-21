@@ -32,7 +32,7 @@
 
 #print ("Hello, World!")
 
-print("age")
+print(age)
 name = "Alice"
 print(nam)
 print(x)
