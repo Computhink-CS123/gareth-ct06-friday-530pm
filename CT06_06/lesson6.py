@@ -54,7 +54,7 @@
 
 import random
 hidden = random.randint(1,100)
-print("the hidden number is " , hidden)
+#print("the hidden number is " , hidden)
 
 print("i have a hidden number from 1 to 100")
 print("guess my hidden number")
