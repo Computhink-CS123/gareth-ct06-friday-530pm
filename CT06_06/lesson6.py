@@ -11,3 +11,4 @@
 #    print(count)
 
 numpupil = input("how many people are there in your class")
+numpupil = int(numpupil)
