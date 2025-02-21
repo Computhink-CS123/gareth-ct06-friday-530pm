@@ -38,9 +38,9 @@
 #x = 5
 #print(x)
 #print("Hello, World!")
-age = 25
-print(age + 1)
-number = 10
+#age = 25
+#print(age + 1)
+#number = 10
 print(number - 5)
 print("Repeat" * 3)
 year = 2023
