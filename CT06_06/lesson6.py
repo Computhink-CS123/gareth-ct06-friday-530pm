@@ -73,5 +73,5 @@ for count in range(tries):
         correct = True
         break
 if not correct:
-    print
+    print("")
 print("Game over")
