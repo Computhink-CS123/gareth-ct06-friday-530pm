@@ -53,4 +53,5 @@
 
 
 import random
-hidden = random.randint()
+hidden = random.randint(1,100)
+print
