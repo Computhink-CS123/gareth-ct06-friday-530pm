@@ -20,13 +20,13 @@
 #avescore = tolscore / numpupil
 #print ("the average score is " + str(avescore))
 
-for i in range(3):
-    print("Hello, World!")
+#for i in range(3):
+#    print("Hello, World!")
 
-for i in range(5):
-    print(i)
+#for i in range(5):
+#    print(i)
 
-print("Hello, World!")
+#print("Hello, World!")
 
 f = 5
 
