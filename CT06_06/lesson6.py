@@ -54,4 +54,4 @@
 
 import random
 hidden = random.randint(1,100)
-print("the hidden number is ")
+print("the hidden number is " , hidden)
