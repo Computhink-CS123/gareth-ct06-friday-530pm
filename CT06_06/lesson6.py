@@ -10,4 +10,4 @@
 #for count in range(num1,num2):
 #    print(count)
 
-numpupil = input("how many people are there in")
+numpupil = input("how many people are there in your class")
