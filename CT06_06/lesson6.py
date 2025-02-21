@@ -65,4 +65,4 @@ for count in range(tries):
     if reply < hidden:
         print("guess a bigger number")
     elif reply > hidden:
-        print 
+        print ("guess a smaal")
