@@ -18,4 +18,4 @@
 #    score = int(score)
 #    tolscore = tolscore + score
 #avescore = tolscore / numpupil
-print ("the average score is " + str(avescore))
+#print ("the average score is " + str(avescore))
