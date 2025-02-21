@@ -56,4 +56,4 @@ import random
 hidden = random.randint(1,100)
 print("the hidden number is " , hidden)
 
-print("i have a hidden")
+print("i have a hidden number from 1 t")
