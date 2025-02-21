@@ -53,3 +53,4 @@
 
 
 import random
+hidden = rando
