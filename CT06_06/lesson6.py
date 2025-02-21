@@ -66,3 +66,5 @@ for count in range(tries):
         print("guess a bigger number")
     elif reply > hidden:
         print ("guess a smaller number")
+    else:
+        print("")
