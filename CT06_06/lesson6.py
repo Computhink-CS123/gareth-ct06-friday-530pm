@@ -61,7 +61,7 @@ print("guess my hidden number")
 
 tries = 7
 for count in range(tries):
-    reply = print("guess a number")
+    reply = input("guess a number")
     if reply < hidden:
         print("guess a bigger number")
     elif reply > hidden:
