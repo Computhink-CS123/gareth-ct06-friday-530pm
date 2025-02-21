@@ -10,12 +10,12 @@
 #for count in range(num1,num2):
 #    print(count)
 
-numpupil = input("how many people are there in your class")
-numpupil = int(numpupil)
-tolscore = 0
-for count in range(numpupil):
-    score = input("what is the person's score?")
-    score = int(score)
-    tolscore = tolscore + score
-avescore = tolscore / numpupil
+#numpupil = input("how many people are there in your class")
+#numpupil = int(numpupil)
+#tolscore = 0
+#for count in range(numpupil):
+#    score = input("what is the person's score?")
+#    score = int(score)
+#    tolscore = tolscore + score
+#avescore = tolscore / numpupil
 print ("the average score is " + str(avescore))
