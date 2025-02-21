@@ -31,10 +31,10 @@
 #f = 5
 
 #print ("Hello, World!")
-
+age = 1
 print(age)
 name = "Alice"
-print(nam)
+print(name)
 print(x)
 x = 5
 pint("Hello, World!")
