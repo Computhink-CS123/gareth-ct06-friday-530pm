@@ -33,3 +33,5 @@
 #print ("Hello, World!")
 
 print(age)
+name = "Alice"
+print(nam)
