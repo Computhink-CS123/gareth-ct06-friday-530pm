@@ -12,3 +12,5 @@
 
 numpupil = input("how many people are there in your class")
 numpupil = int(numpupil)
+for count in range(numpupil):
+    print
