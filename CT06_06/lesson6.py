@@ -60,7 +60,7 @@ print("i have a hidden number from 1 to 100")
 print("guess my hidden number")
 
 tries = 7
-correct 
+correct = False
 for count in range(tries):
     reply = input("guess a number")
     reply = int(reply)
@@ -70,5 +70,6 @@ for count in range(tries):
         print ("guess a smaller number")
     else:
         print("you got it! the number is " , hidden)
+        
         break
 print("Game over")
