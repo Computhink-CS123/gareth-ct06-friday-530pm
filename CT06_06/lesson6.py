@@ -12,6 +12,7 @@
 
 numpupil = input("how many people are there in your class")
 numpupil = int(numpupil)
+tolscore
 for count in range(numpupil):
     score = input("what is the person's score?")
 tolscore = (tolscore + score)
