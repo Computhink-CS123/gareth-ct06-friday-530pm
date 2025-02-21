@@ -32,3 +32,4 @@
 
 #print ("Hello, World!")
 
+print(age)
