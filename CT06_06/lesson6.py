@@ -14,4 +14,5 @@ numpupil = input("how many people are there in your class")
 numpupil = int(numpupil)
 for count in range(numpupil):
     score = input("what is the person's score?")
-tolscore = ((score + score))
+tolscore = ((score + score) * numpupil)
+ave
