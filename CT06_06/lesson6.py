@@ -54,4 +54,4 @@
 
 import random
 hidden = random.randint(1,100)
-print
+print("the")
