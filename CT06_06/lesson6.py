@@ -10,3 +10,4 @@
 #for count in range(num1,num2):
 #    print(count)
 
+numpupil = input
