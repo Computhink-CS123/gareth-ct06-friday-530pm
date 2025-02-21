@@ -70,6 +70,6 @@ for count in range(tries):
         print ("guess a smaller number")
     else:
         print("you got it! the number is " , hidden)
-        
+        correct = True
         break
 print("Game over")
