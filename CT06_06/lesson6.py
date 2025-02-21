@@ -8,4 +8,4 @@ if num1 > num2:
     num2 = temp
 
 for count in range(num1,num2):
-    print
+    print(count)
