@@ -63,4 +63,4 @@ tries = 7
 for count in range(tries):
     reply = print("guess a number")
     if reply < hidden:
-        print("")
+        print("guess a number")
