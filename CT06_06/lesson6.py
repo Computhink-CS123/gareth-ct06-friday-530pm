@@ -31,10 +31,10 @@
 #f = 5
 
 #print ("Hello, World!")
-age = 1
-print(age)
-name = "Alice"
-print(name)
+#age = 1
+#print(age)
+#name = "Alice"
+#print(name)
 x = 5
 print(x)
 print("Hello, World!")
