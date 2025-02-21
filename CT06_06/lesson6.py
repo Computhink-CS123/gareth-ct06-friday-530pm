@@ -67,4 +67,4 @@ for count in range(tries):
     elif reply > hidden:
         print ("guess a smaller number")
     else:
-        print("you got it!")
+        print("you got it! the number is")
