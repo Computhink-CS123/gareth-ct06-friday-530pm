@@ -15,4 +15,4 @@ numpupil = int(numpupil)
 for count in range(numpupil):
     score = input("what is the person's score?")
 tolscore = ((score + score) * numpupil)
-avescore = ()
+avescore = (tolscore / numpupil)
