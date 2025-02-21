@@ -43,8 +43,9 @@
 #number = 10
 #print(number - 5)
 #print("Repeat" * 3)
-#year = 20233print("The year is " + str(year))
-x = 10
+#year = 2023
+#print("The year is " + str(year))
+#x = 10
 y = x / 2
 end = 5
 for i in range(end):
