@@ -35,6 +35,8 @@
 #print(age)
 #name = "Alice"
 #print(name)
-x = 5
-print(x)
-print("Hello, World!")
+#x = 5
+#print(x)
+#print("Hello, World!")
+age = "25"
+print(age + 1)
