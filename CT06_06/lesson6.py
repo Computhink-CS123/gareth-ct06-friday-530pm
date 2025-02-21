@@ -68,3 +68,4 @@ for count in range(tries):
         print ("guess a smaller number")
     else:
         print("you got it! the number is " , hidden)
+        break
