@@ -53,4 +53,4 @@
 
 
 import random
-hidden = rando
+hidden = random.rant
