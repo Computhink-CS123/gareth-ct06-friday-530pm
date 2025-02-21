@@ -59,4 +59,6 @@ print("the hidden number is " , hidden)
 print("i have a hidden number from 1 to 100")
 print("guess my hidden number")
 
-tries = ""
+tries = "7"
+for count in range(tries):
+    
