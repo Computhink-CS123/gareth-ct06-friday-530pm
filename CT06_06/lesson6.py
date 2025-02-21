@@ -20,3 +20,7 @@
 #avescore = tolscore / numpupil
 #print ("the average score is " + str(avescore))
 
+age = "25"
+print(age + 1)
+number = 10
+print(number - "5")
