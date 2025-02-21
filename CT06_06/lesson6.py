@@ -16,6 +16,6 @@ tolscore = 0
 for count in range(numpupil):
     score = input("what is the person's score?")
     score = int(score)
-    tolscore = (tolscore + score)
+    tolscore = tolscore + score
 avescore = (tolscore / numpupil)
 print ("the average score is " + str(avescore))
