@@ -69,4 +69,4 @@ for count in range(tries):
     else:
         print("you got it! the number is " , hidden)
         break
-print("")
+print("Game over")
