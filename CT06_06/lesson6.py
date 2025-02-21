@@ -73,5 +73,5 @@ for count in range(tries):
         correct = True
         break
 if not correct:
-    print("you do not have any more tries left.YoU LoSe. The correct number is " , )
+    print("you do not have any more tries left.YoU LoSe. The correct number is " , hidden)
 print("Game over")
