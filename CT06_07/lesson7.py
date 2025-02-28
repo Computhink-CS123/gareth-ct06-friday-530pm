@@ -34,6 +34,6 @@ num2 = 0
 for char in range(1,num1):
     num = input("What is number #" + str(char) + "?")
     num = int(num)
-    num3 = num2 
+    num3 = num2 + num
 
 
