@@ -1,4 +1,4 @@
-###core_three = 75
+##core_three = 75
 
 total = score_one + score_two + score_three
 
