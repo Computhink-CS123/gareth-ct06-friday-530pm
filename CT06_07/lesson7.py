@@ -39,3 +39,5 @@
 #print("the total number is " + str(total))
 
 num = input("what number do you want to multiply? ")
+for char in range(1,13):
+    
