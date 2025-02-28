@@ -37,6 +37,7 @@ for char in range(1,num1):
     num3 = num2 + num
     num3 = int(num3) 
     num2 = num3
+    num2 = in
 print = (num2)
 
 
