@@ -29,8 +29,8 @@
 #for count in range(num):
 #    print ("nice to meet you" , word)
 
-num1 = input("")
-num2 = input("")
+num1 = input("What is number #1?")
+num2 = input("What is number #1?")
 num3 = input("")
 num4 = input("")
 num5 = input("")
