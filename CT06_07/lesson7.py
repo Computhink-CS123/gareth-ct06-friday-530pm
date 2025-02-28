@@ -29,7 +29,7 @@
 #for count in range(num):
 #    print ("nice to meet you" , word)
 
-num1 = 5
+num1 = 6
 for char in range(1,num1):
     num = input("What is number #" +"?")
 
