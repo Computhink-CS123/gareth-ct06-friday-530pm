@@ -31,6 +31,6 @@
 
 num1 = input("What is number #1?")
 num2 = input("What is number #2?")
-num3 = input("What is number #1?")
-num4 = input("What is number #1?")
-num5 = input("What is number #1?")
+num3 = input("What is number #3?")
+num4 = input("What is number #4?")
+num5 = input("What is number #5?")
