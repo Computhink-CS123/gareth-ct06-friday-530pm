@@ -22,4 +22,4 @@ word = input("what word would you like me to repeat?")
 num = input("how many times would you like me to repeat it?")
 num = int(num)
 for count in range(num):
-    print (word * num)
+    print (word)
