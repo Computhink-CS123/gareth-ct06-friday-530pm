@@ -30,7 +30,7 @@
 #    print ("nice to meet you" , word)
 
 num1 = 6
-num2 = 0
+toltal = 0
 for char in range(1,num1):
     num = input("What is number #" , char , "? ")
     num = int(num)
