@@ -23,4 +23,4 @@
 #num = int(num)
 #for count in range(num):
 #    print (word)
-word = input("what word would you like me to repeat?")
+word = input("what is your name?")
