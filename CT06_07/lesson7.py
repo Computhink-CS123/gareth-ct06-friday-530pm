@@ -19,4 +19,4 @@
 #    print(count)
 
 input = ("what word would you like me to repeat?")
-input = ("how many times would ")
+input = ("how many times would you like me to repeat it")
