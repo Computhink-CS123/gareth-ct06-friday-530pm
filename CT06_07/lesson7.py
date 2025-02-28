@@ -23,8 +23,8 @@
 #num = int(num)
 #for count in range(num):
 #    print (word)
-word = input("what is your name?")
-num = input("how many times would you like me to repeat it?")
-num = int(num)
-for count in range(num):
-    print ("nice to meet you" , word)
+#word = input("what is your name?")
+#num = input("how many times would you like me to repeat it?")
+#num = int(num)
+#for count in range(num):
+#    print ("nice to meet you" , word)
