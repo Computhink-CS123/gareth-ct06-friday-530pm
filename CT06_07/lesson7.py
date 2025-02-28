@@ -29,3 +29,4 @@
 #for count in range(num):
 #    print ("nice to meet you" , word)
 
+num1 = input("")
