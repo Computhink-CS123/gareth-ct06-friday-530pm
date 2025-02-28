@@ -30,7 +30,7 @@
 #    print ("nice to meet you" , word)
 
 num1 = input("What is number #1?")
-num2 = input("What is number #1?")
-num3 = input("")
-num4 = input("")
-num5 = input("")
+num2 = input("What is number #2?")
+num3 = input("What is number #1?")
+num4 = input("What is number #1?")
+num5 = input("What is number #1?")
