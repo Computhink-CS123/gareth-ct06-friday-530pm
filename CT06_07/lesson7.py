@@ -30,3 +30,7 @@
 #    print ("nice to meet you" , word)
 
 num1 = input("")
+num1 = input("")
+num1 = input("")
+num1 = input("")
+num1 = input("")
