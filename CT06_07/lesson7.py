@@ -30,6 +30,6 @@
 #    print ("nice to meet you" , word)
 
 num1 = 5
-for char in range(num1):
+for char in range(1,num1):
     num = input("What is number #" +"?")
 
