@@ -42,4 +42,4 @@ num = input("what number do you want to multiply? ")
 num = int(num)
 for char in range(1,13):
     num1 = num * 12
-    print("")
+    print(str())
