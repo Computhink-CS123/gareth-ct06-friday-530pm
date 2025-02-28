@@ -29,13 +29,13 @@
 #for count in range(num):
 #    print ("nice to meet you" , word)
 
-num1 = 6
-total = 0
-for char in range(1,num1):
-    num = input("What is number #" + str(char) + "? ")
-    num = int(num)
-    total = total + num
-    print (total)
-print("the total number is " + str(total))
+#num1 = 6
+#total = 0
+#for char in range(1,num1):
+#    num = input("What is number #" + str(char) + "? ")
+#    num = int(num)
+#    total = total + num
+#    print (total)
+#print("the total number is " + str(total))
 
 
