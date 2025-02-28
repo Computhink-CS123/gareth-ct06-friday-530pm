@@ -38,4 +38,4 @@
 #    print (total)
 #print("the total number is " + str(total))
 
-num
+num = intinput
