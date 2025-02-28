@@ -38,4 +38,4 @@
 #    print (total)
 #print("the total number is " + str(total))
 
-num = input("")
+num = input("what number do you want to multiply? ")
