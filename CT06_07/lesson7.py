@@ -31,6 +31,7 @@
 
 num1 = 6
 total = 0
+total = int(0)
 for char in range(1,num1):
     num = input("What is number #" + str(char) + "? ")
     num = int(num)
