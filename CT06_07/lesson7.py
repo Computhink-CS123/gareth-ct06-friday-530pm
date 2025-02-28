@@ -35,6 +35,6 @@ for char in range(1,num1):
     num = input("What is number #" + str(char) + "?")
     num = int(num)
     num2 = num + num2
-print = (num2)
+print = ("the toltal number is" , num2)
 
 
