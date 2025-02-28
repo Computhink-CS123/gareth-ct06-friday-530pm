@@ -35,6 +35,6 @@ for char in range(num1):
     num = input("What is number #1")
     num = int(num)
     num2 = num + num2
-print = ("the toltal number is" , num2)
+print = ("the total number is" , num2)
 
 
