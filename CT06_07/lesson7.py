@@ -18,5 +18,7 @@
 #for count in range(10,0,-1):
 #    print(count)
 
-input = ("what word would you like me to repeat?")
-input = ("how many times would you like me to repeat it")
+word = input("what word would you like me to repeat?")
+num = input("how many times would you like me to repeat it?")
+for count in range(num):
+    print 
