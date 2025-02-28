@@ -40,4 +40,4 @@
 
 num = input("what number do you want to multiply? ")
 for char in range(1,13):
-    
+    print()
