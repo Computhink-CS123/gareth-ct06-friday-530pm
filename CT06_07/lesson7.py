@@ -15,5 +15,6 @@
 #for count in range(2,22,2):
 #    print(count)
 
-for count in range(10,0,-1):
-    print(count)
+#for count in range(10,0,-1):
+#    print(count)
+
