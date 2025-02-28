@@ -31,5 +31,6 @@
 
 num1 = 6
 for char in range(1,num1):
-    num = input("What is number #" + str(char) "?")
+    num = input("What is number #" + str(char) + "?")
+    
 
