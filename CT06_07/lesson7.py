@@ -9,5 +9,6 @@
 
 #print("Average score for " + str(student_name) + " is: " + str(average_score))
 
-for count in range(11):
-    print(count)
+#for count in range(11):
+#    print(count)
+
