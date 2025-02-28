@@ -31,5 +31,5 @@
 
 num1 = 5
 for char in range(num1):
-    num = input("What is number #" "?")
+    num = input("What is number #" +"?")
 
