@@ -70,4 +70,4 @@ import random
 #else:
 #    print("False")
 
-random.randint()
+random.randint(1,10)
