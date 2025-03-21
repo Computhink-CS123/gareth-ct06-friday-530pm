@@ -51,4 +51,4 @@ else:
 
 
 
-print( start <= num1 )
+print( start <= num1 <= end )
