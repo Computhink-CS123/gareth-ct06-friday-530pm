@@ -71,3 +71,4 @@ import random
 #    print("False")
 
 random.randint(1,10)
+num2
