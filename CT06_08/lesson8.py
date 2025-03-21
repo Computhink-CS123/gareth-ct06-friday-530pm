@@ -75,4 +75,4 @@ num2 = int(input("guess a number? "))
 if num1 == num2:
     print("correct")
 else:
-    print("")
+    print("wrong")
