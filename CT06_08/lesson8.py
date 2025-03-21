@@ -71,4 +71,4 @@ import random
 #    print("False")
 
 num1 = random.randint(1,10)
-num2 = int(input)
+num2 = int(input("guess"))
