@@ -62,4 +62,4 @@ import random
 #else:
 #    print ("False")
 
-num1 = int
+num1 = int(input("give me "))
