@@ -73,4 +73,4 @@ import random
 num1 = random.randint(1,2)
 num2 = int(input("guess a number? "))
 if num1 == num2:
-    print
+    print("")
