@@ -62,3 +62,4 @@ import random
 #else:
 #    print ("False")
 
+num1 = int
