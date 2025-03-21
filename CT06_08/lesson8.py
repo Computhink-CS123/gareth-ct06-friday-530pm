@@ -55,4 +55,4 @@ import random
 #end = int(input("end number?"))
 #print( start <= num1 <= end )
 
-num1 = int(input(""))
+num1 = int(input("give me a number? "))
