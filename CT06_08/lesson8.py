@@ -38,16 +38,16 @@ import random
 #else:
 #    print("incorrect")
 
-num1 = random.randint(1,50)
-start = int(input("give me a start number"))
-end = int(input("give me a end number"))
-if num1 >= start:
-    if num1 <= end:
-        print ("True")
-    else:
-        print("False")
-else:
-    print("False")
+#num1 = random.randint(1,50)
+#start = int(input("give me a start number"))
+#end = int(input("give me a end number"))
+#if num1 >= start:
+#    if num1 <= end:
+#        print ("True")
+#    else:
+#        print("False")
+#else:
+#    print("False")
 
 
 
