@@ -68,4 +68,4 @@ num3 = num1 % num2
 if num3 == 0:
     print("True")
 else:
-    
+    print("False")
