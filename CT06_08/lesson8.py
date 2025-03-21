@@ -70,5 +70,7 @@ import random
 #else:
 #    print("False")
 
-num1 = random.randint(1,10)
+num1 = random.randint(1,2)
 num2 = int(input("guess a number? "))
+if num1 == num2:
+    print
