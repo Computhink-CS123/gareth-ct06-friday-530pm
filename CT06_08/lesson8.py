@@ -59,3 +59,5 @@ num1 = int(input("give me a number? "))
 num1 = (num1 % 2)
 if num1 == 0 :
     print ("True")
+else:
+    print ("False")
