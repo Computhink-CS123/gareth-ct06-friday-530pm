@@ -51,5 +51,5 @@ import random
 
 num1 = random.randint(1,50)
 print ("random number is " + str(num1))
-start = int(input)
+start = int(input("start number?))
 print( start <= num1 <= end )
