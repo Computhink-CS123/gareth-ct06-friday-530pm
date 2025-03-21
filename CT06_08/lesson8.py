@@ -64,4 +64,4 @@ import random
 
 num1 = int(input("start number?"))
 num2 = int(input("start number?"))
-num3 = nu
+num3 = num1 % num2
