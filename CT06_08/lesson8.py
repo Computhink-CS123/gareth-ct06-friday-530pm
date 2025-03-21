@@ -62,10 +62,11 @@ import random
 #else:
 #    print ("False")
 
-num1 = int(input("start number?"))
-num2 = int(input("start number?"))
-num3 = num1 % num2
-if num3 == 0:
-    print("True")
-else:
-    print("False")
+#num1 = int(input("start number?"))
+#num2 = int(input("start number?"))
+#num3 = num1 % num2
+#if num3 == 0:
+#    print("True")
+#else:
+#    print("False")
+
