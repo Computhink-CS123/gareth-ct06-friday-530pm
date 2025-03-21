@@ -56,4 +56,4 @@ import random
 #print( start <= num1 <= end )
 
 num1 = int(input("give me a number? "))
-num1 = ()
+num1 = (num1 )
