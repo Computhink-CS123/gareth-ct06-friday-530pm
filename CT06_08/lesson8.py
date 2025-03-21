@@ -49,6 +49,6 @@ import random
 #else:
 #    print("False")
 
-
+num1.random
 
 print( start <= num1 <= end )
