@@ -70,3 +70,4 @@ import random
 #else:
 #    print("False")
 
+random.randi
