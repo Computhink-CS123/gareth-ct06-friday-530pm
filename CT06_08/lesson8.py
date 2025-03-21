@@ -55,9 +55,10 @@ import random
 #end = int(input("end number?"))
 #print( start <= num1 <= end )
 
-num1 = int(input("give me a number? "))
-num1 = (num1 % 2)
-if num1 == 0 :
-    print ("True")
-else:
-    print ("False")
+#num1 = int(input("give me a number? "))
+#num1 = (num1 % 2)
+#if num1 == 0 :
+#    print ("True")
+#else:
+#    print ("False")
+
