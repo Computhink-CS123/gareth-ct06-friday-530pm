@@ -50,5 +50,5 @@ import random
 #    print("False")
 
 num1 = random.randint(1,50)
-print ("random")
+print ("random number is ")
 print( start <= num1 <= end )
