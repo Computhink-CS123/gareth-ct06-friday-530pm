@@ -49,6 +49,6 @@ import random
 #else:
 #    print("False")
 
-num1.random
+num1.random.randint
 
 print( start <= num1 <= end )
