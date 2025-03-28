@@ -1,0 +1,1 @@
+numapple = int(input)
