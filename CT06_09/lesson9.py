@@ -10,3 +10,4 @@ if numorange > 5:
 else:
     orangeprice = numorange * 0.9
 totalprice = orangeprice + appleprice
+print (t)
