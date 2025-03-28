@@ -4,10 +4,10 @@
 #    appleprice = numapple * 0.6 * 0.9
 #else:
 #    appleprice = numapple * 0.6
-
-if numorange > 5:
-    orangeprice = numorange * 0.9 * 0.9
-else:
-    orangeprice = numorange * 0.9
-totalprice = orangeprice + appleprice
+#
+#if numorange > 5:
+#    orangeprice = numorange * 0.9 * 0.9
+#else:
+#    orangeprice = numorange * 0.9
+#totalprice = orangeprice + appleprice
 print (totalprice)
