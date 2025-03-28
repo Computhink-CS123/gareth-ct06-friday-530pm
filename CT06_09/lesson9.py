@@ -27,4 +27,4 @@ for char in range(10):
         desirable = desirable + 1
     else:
         undesirable = undesirable + 1
-print ("")
+print ("desirable ratings are:")
