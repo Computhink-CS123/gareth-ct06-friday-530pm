@@ -1,1 +1,1 @@
-age = int(input())
+age = int(input("what is the age? "))
