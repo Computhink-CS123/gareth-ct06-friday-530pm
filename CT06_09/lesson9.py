@@ -19,3 +19,4 @@
 #        positive_days = positive_days + 1
 #print (positive_days)
 
+desirable = 0
