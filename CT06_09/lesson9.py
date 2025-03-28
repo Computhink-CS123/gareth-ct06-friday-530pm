@@ -26,4 +26,4 @@ for char in range(10):
     if ratings > 3:
         desirable = desirable + 1
     else:
-        undesirable 
+        undesirable = undesirable + 1
