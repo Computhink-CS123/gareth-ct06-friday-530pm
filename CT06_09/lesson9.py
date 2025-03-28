@@ -4,4 +4,6 @@ if numapple > 5:
     appleprice = numapple * 0.6 * 0.9
 else:
     appleprice = numapple * 0.6
+
+if numorange > 5:
     
