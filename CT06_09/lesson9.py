@@ -12,4 +12,4 @@
 #totalprice = orangeprice + appleprice
 #print (totalprice)
 
-po
+positive_days = 0
