@@ -9,3 +9,4 @@ if numorange > 5:
     orangeprice = numorange * 0.9 * 0.9
 else:
     orangeprice = numorange * 0.9
+totalprice = orangeprice + appleprice
