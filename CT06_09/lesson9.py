@@ -1,1 +1,1 @@
-numapple = int(input)
+numapple = int(input(""))
