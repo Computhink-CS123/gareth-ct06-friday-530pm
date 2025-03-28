@@ -21,3 +21,5 @@
 
 desirable = 0
 undesirable = 0
+for char in range(10):
+    
