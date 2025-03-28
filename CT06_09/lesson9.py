@@ -20,3 +20,4 @@
 #print (positive_days)
 
 desirable = 0
+undesirable = 0
