@@ -13,3 +13,5 @@
 #print (totalprice)
 
 positive_days = 0
+for char in range(7):
+    daytem = int
