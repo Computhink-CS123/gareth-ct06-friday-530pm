@@ -22,4 +22,6 @@
 desirable = 0
 undesirable = 0
 for char in range(10):
-    ratings = int(input(""))
+    ratings = int(input("how much do u rate between 1 to 5? "))
+    if ratings > 3:
+        
