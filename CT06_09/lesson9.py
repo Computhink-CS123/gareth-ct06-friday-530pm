@@ -15,4 +15,5 @@
 positive_days = 0
 for char in range(7):
     daytem = int(input("what is the tempreture for today? "))
-    
+    if daytem > 30:
+        positive_days = positive_days
