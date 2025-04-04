@@ -16,4 +16,5 @@
 #elif 59 < score < 70:
 #    print("Grade D")
 #else:
-    print("Grade F")
+#    print("Grade F")
+
