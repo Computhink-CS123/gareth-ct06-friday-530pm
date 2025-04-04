@@ -18,4 +18,4 @@
 #else:
 #    print("Grade F")
 
-age = int(input("what is ur age? ^__"))
+age = int(input("what is ur age? "))
