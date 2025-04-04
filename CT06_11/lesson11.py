@@ -14,4 +14,4 @@
 #    print ("you r allowed to ride")
 
 num1 = int(input("give me a number"))
-num1 = num1 
+num2 = num1 / 3 
