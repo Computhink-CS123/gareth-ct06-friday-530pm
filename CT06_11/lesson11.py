@@ -13,6 +13,7 @@
 #if rider1 > 120 and rider2 > 120:
 #    print ("you r allowed to ride")
 
-num1 = int(input("give me a number"))
-if num1 % 3 == 0 and num1 % 7 == 0 :
-    print ("The number is divisible by 3 and 7!") 
+#num1 = int(input("give me a number"))
+#if num1 % 3 == 0 and num1 % 7 == 0 :
+#    print ("The number is divisible by 3 and 7!") 
+
