@@ -30,4 +30,4 @@
 #else: 
 #    print ("your ticket price is $20. ^__^ >:)")
 
-gender = input("to enter this SKIBIDI TOILET, Please enter your GEN_")
+gender = input("to enter this SKIBIDI TOILET, Please enter your GEN_deR")
