@@ -23,3 +23,5 @@
 #    print ("you can ride")
 #else:
 #    print("you cannot ride")
+
+buyer = int(i)
