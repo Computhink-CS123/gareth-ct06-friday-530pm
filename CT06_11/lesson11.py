@@ -25,3 +25,5 @@
 #    print("you cannot ride")
 
 buyer = int(input("how old are you? ^__^ >:)"))
+if buyer < 12 or buyer > 65:
+    print 
