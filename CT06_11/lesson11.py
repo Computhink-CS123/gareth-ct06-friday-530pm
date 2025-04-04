@@ -13,4 +13,4 @@
 #if rider1 > 120 and rider2 > 120:
 #    print ("you r allowed to ride")
 
-num1 = int(input(""))
+num1 = int(input("give me a number"))
