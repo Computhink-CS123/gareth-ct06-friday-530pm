@@ -12,4 +12,4 @@ if 89 < score < 101 :
 elif 79 < score < 90:
     print("Grade B")
 elif 69 < score < 80:
-    print("G")
+    print("Grade C")
