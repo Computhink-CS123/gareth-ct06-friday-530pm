@@ -22,4 +22,4 @@ age = int(input("what is ur age? ^__^ :)"))
 if age < 0:
     print("cannot be negative age.")
 elif age >18 :
-    print
+    print("u r ")
