@@ -8,4 +8,4 @@
 
 score = int(input("what is your score?"))
 if 89 < score < 101 :
-    print("Grade ")
+    print("Grade A")
