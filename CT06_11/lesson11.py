@@ -1,1 +1,1 @@
-int
+int(input("What is the pri"))
