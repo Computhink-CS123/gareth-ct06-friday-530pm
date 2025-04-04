@@ -1,1 +1,1 @@
-int(input("What is the pri"))
+int(input("What is the price of this?"))
