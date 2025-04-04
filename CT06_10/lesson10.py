@@ -20,4 +20,4 @@
 
 age = int(input("what is ur age? ^__^ :)"))
 if age < 0:
-    print
+    print("")
