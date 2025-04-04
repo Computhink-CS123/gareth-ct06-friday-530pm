@@ -10,4 +10,4 @@ score = int(input("what is your score?"))
 if 89 < score < 101 :
     print("Grade A")
 elif 79 < score < 90:
-    print
+    print("Grade B")
