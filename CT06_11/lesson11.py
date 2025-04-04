@@ -14,4 +14,5 @@
 #    print ("you r allowed to ride")
 
 num1 = int(input("give me a number"))
-num2 = num1 / 3 
+if num1 % 3 and num1 % 7:
+    print (true) 
