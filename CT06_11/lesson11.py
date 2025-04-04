@@ -14,5 +14,5 @@
 #    print ("you r allowed to ride")
 
 num1 = int(input("give me a number"))
-if num1 % 3 and num1 % 7:
+if num1 % 3 == 0 and num1 % 7 == 0 :
     print ("The number is divisible by 3 and 7!") 
