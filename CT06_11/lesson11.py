@@ -24,4 +24,4 @@
 #else:
 #    print("you cannot ride")
 
-buyer = int(i)
+buyer = int(input("w"))
