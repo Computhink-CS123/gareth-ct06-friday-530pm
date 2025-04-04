@@ -19,3 +19,5 @@
 
 rider1 = 25
 rider2 = 6
+if rider1 >= 18 or rider2 >= 18:
+    print 
