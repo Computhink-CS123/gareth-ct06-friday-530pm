@@ -30,3 +30,4 @@
 #else: 
 #    print ("your ticket price is $20. ^__^ >:)")
 
+gender = 
