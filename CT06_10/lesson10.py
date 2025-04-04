@@ -5,3 +5,4 @@ elif age >= 13 <=19:
     print("teen")
 else:
     print("adult")
+
