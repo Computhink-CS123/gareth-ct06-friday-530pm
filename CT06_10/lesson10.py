@@ -6,4 +6,4 @@ elif age >= 13 <=19:
 else:
     print("adult")
 
-score = int(input("what "))
+score = int(input("what is your score"))
