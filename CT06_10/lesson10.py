@@ -6,4 +6,6 @@
 #else:
 #    print("adult")
 
-score = int(input("what is your score"))
+score = int(input("what is your score?"))
+if 89 < score < 101 :
+    
