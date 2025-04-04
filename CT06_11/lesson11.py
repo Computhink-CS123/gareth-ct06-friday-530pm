@@ -17,9 +17,9 @@
 #if num1 % 3 == 0 and num1 % 7 == 0 :
 #    print ("The number is divisible by 3 and 7!") 
 
-rider1 = 25
-rider2 = 6
-if rider1 >= 18 or rider2 >= 18:
-    print ("you can ride")
-else:
-    print("you cannot ride")
+#rider1 = 25
+#rider2 = 6
+#if rider1 >= 18 or rider2 >= 18:
+#    print ("you can ride")
+#else:
+#    print("you cannot ride")
