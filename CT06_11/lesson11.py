@@ -15,4 +15,4 @@
 
 num1 = int(input("give me a number"))
 if num1 % 3 and num1 % 7:
-    print ("true") 
+    print ("The number is divisible by 3 and 7!") 
