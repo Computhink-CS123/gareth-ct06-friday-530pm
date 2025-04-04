@@ -28,4 +28,4 @@ buyer = int(input("how old are you? ^__^ >:)"))
 if buyer < 12 or buyer > 65:
     print (" your ticket price is $12. ^__^ >:)")
 else: 
-    print ("")
+    print ("your ")
