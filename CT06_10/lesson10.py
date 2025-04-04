@@ -23,4 +23,5 @@ if age < 0:
     print("cannot be negative age.")
 elif age >18 :
     print("u r eligible to vote")
+else:
     
