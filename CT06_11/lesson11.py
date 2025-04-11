@@ -59,9 +59,5 @@ found_e = False
 yes = 0
 word = input("give me a 5 letter word")
 for letter in word:
-    if letter == "o" or "e":
-        yes = yes + 1
-if yes == 2:
-    print("true")
-else:
-    print("false")
+    if letter == "o":
+        found_o = true
