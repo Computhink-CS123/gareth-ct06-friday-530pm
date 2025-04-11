@@ -66,4 +66,4 @@ for letter in word:
 if found_e and found_o :
     print("good chioce of word")
 else:
-    print("")
+    print("invalid word")
