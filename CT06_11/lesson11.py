@@ -64,4 +64,4 @@ for letter in word:
     if letter == "e":
         found_e = True
 if found_e == True and found_o == True:
-    print("")
+    print("good chioce of word")
