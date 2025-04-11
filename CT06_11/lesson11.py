@@ -60,4 +60,5 @@ for letter in word:
         yes = yes + 1
 if yes == 2:
     print("true")
-else
+else:
+    print("false")
