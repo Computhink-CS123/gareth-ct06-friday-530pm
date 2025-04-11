@@ -53,7 +53,7 @@
 #else:
 #  print("order submited.  -__-")
 
-
+found_o = F
 
 yes = 0
 word = input("give me a 5 letter word")
