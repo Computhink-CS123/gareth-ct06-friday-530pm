@@ -59,4 +59,5 @@ for letter in word:
     if letter == "o" or "e":
         yes = yes + 1
 if yes == 2:
-    print
+    print("true")
+else
