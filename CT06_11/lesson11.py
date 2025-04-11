@@ -62,4 +62,5 @@ for letter in word:
     if letter == "o":
         found_o = True
     if letter == "e":
-        f
+        found_e = True
+        
