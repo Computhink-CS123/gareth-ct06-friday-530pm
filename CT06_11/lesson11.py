@@ -57,4 +57,5 @@ yes = 0
 word = input("give me a 5 letter word")
 for letter in word:
     if letter == "o" or "e":
-        yes = 
+        yes = yes + 1
+        
