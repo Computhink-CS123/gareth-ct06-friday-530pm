@@ -45,10 +45,11 @@
 #else:
 #  print("it is not the weekend end. booooo")
 
-burger = input("do you want a burger?")
-fries = input("do you want a fries?")
-drink = input("do you want a drink?")
-if burger == "yes" and fries == "yes" and not drink == "yes":
-  print ("won't u get thirsty?")
-else:
-  print("order submited.  -__-")
+#burger = input("do you want a burger?")
+#fries = input("do you want a fries?")
+#drink = input("do you want a drink?")
+#if burger == "yes" and fries == "yes" and not drink == "yes":
+#  print ("won't u get thirsty?")
+#else:
+#  print("order submited.  -__-")
+
