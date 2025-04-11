@@ -56,14 +56,14 @@
 found_o = False
 found_e = False
 
-yes = 0
-word = input("give me a 5 letter word")
-for letter in word:
-    if letter == "o":
-        found_o = True
-    if letter == "e":
-        found_e = True
-if found_e and found_o :
-    print("good chioce of word")
-else:
-    print("invalid word")
+#yes = 0
+#word = input("give me a 5 letter word")
+#for letter in word:
+#    if letter == "o":
+#        found_o = True
+#    if letter == "e":
+#        found_e = True
+#if found_e and found_o :
+#    print("good chioce of word")
+#else:
+#    print("invalid word")
