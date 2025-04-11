@@ -53,6 +53,8 @@
 #else:
 #  print("order submited.  -__-")
 
+
+
 yes = 0
 word = input("give me a 5 letter word")
 for letter in word:
