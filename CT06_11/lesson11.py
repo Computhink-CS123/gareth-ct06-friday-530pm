@@ -60,4 +60,6 @@ yes = 0
 word = input("give me a 5 letter word")
 for letter in word:
     if letter == "o":
-        found_o = true
+        found_o = True
+    if letter == "e":
+        f
