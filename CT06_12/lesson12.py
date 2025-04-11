@@ -6,6 +6,8 @@
 visitor1 = 18
 while visitor1 <30:
     visitor1 += 1
+    print(visitor1)
 visitor2 = 4
 while visitor2 <25:
-    visitor2 += 1
+     visitor2 += 1
+     print(visitor2)
