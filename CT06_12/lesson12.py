@@ -3,4 +3,6 @@
 #    visitors += 1
 #    print(visitors)
 #
-visitor1 = 
+visitor1 = 18
+while visitor1 <30:
+    v
