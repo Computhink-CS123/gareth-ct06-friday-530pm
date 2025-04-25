@@ -11,4 +11,5 @@ while True:
         if draw <= 1000:
             cash = cash - draw
             print("here is you money")
-            
+        else:
+            print("")
