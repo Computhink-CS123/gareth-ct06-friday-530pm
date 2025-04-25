@@ -27,6 +27,13 @@
 
 import random
 while True:
-    num1 = random.randint
-    num2 = random.randint
-    print ("what is " + str(num1))
+    num1 = random.randint(1,10)
+    num2 = random.randint(1,10)
+    ans = input("what is " + str(num1) + " + " + str(num2))
+    ans = int(ans)
+    truans = num1 + num2
+    if not ans == truans:
+        print ("wrong")
+    else :
+        print ("correct")
+        break
