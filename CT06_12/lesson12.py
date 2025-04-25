@@ -52,4 +52,4 @@
 import random
 num = 0
 while True:
-    num
+    num = random.randint
