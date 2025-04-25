@@ -7,4 +7,4 @@ while True:
         print ("thank you!")
         break
     elif ask == "1":
-        draw = float
+        draw = input
