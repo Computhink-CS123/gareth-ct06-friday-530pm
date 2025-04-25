@@ -38,3 +38,4 @@ for char in range(10):
     else :
         print ("correct")
         counter = counter + 1
+print (counter)
