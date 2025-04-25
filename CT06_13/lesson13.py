@@ -1,3 +1,3 @@
 cash = 1000
 while True:
-    ask = input("for withdraw, press 1")
+    ask = input("for (withdraw, press 1)")
