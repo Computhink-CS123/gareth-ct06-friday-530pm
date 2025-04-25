@@ -26,7 +26,7 @@
 #        break
 
 import random
-while True:
+for char in range:
     num1 = random.randint(1,10)
     num2 = random.randint(1,10)
     ans = input("what is " + str(num1) + " + " + str(num2))
