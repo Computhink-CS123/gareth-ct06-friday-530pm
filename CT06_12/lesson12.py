@@ -56,4 +56,4 @@ while True:
     if not num == 4:
         print ("i want four")
     else:
-        print ("")
+        print ("yay!we have a four")
