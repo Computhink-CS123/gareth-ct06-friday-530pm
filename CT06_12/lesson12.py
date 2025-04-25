@@ -35,7 +35,7 @@ for char in range(10):
         ans = input("what is " + str(num1) + " + " + str(num2) + "? ")
         ans = int(ans)
         truans = num1 + num2
-    if raneq == 2:
+    elif raneq == 2:
         ans = input("what is " + str(num1) + " - " + str(num2) + "? ")
         ans = int(ans)
         truans = num1 - num2
