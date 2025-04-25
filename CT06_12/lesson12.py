@@ -28,7 +28,7 @@
 counter = 0
 import random
 for char in range(10):
-    num1 = random.randint(1,10)
+    num1 = random.randint(10,20)
     num2 = random.randint(1,10)
     raneq = random.randint(1,3)
     if raneq == 1:
