@@ -54,6 +54,6 @@ num = 0
 while True:
     num = random.randint(1,6)
     if not num == 4:
-        print ("i want four")
+        print ("i want four! :")
     else:
-        print ("yay!we have a four")
+        print ("yay!we have a four!")
