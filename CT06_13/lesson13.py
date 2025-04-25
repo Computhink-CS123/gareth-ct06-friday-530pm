@@ -14,4 +14,4 @@ while True:
         else:
             print("Err0r!Insufision funds!")
     elif ask == "2":
-        dep 
+        depo = int
