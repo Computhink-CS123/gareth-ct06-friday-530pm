@@ -29,4 +29,4 @@ import random
 while True:
     num1 = random.randint
     num2 = random.randint
-    print ("what is " )
+    print ("what is " + str(num1))
