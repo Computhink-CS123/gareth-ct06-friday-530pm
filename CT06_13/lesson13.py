@@ -12,4 +12,4 @@ while True:
             cash = cash - draw
             print("here is you money")
         else:
-            print("Err0r")
+            print("Err0r!Insufition")
