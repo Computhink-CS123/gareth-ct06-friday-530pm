@@ -26,7 +26,7 @@
 #        break
 
 #counter = 0
-import random
+#import random
 #for char in range(10):
 #    num1 = random.randint(10,20)
 #    num2 = random.randint(1,10)
@@ -49,4 +49,7 @@ import random
 #        counter = counter + 1
 #print (counter)
 
-
+import random
+num = 0
+while True:
+    num
