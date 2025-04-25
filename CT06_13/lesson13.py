@@ -5,4 +5,4 @@ while True:
         print (cash)
     elif ask == 4:
         print ("thank you!")
-        
+        break
