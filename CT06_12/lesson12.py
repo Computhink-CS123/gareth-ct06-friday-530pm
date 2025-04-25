@@ -53,6 +53,7 @@ import random
 num = 0
 while True:
     num = random.randint(1,6)
+    print 
     if not num == 4:
         print ("i want four! >:(")
     else:
