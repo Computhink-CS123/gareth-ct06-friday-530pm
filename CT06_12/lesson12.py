@@ -28,5 +28,5 @@
 import random
 while True:
     num1 = random.randint
-    num2 = random
-    print 
+    num2 = random.randint
+    print ()
