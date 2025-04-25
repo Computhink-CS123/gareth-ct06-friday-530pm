@@ -25,6 +25,6 @@
 #    if ans == "end":
 #        break
 
-
+import random
 while True:
-    ques = inpu
+    ques = input
