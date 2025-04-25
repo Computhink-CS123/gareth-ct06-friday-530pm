@@ -9,4 +9,4 @@ while True:
     elif ask == "1":
         draw = int(input("how much money would you like to withdraw? "))
         if draw <= 1000:
-            1000
+            cash = cash - draw
