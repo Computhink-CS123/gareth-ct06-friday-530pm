@@ -27,4 +27,4 @@
 
 
 while True:
-    q
+    ques = inpu
