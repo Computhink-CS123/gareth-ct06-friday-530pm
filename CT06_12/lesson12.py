@@ -19,8 +19,8 @@
 #        break
 #    visitors += 1
 
-order = ("")
-while True:
-    ans = input("what is your order?")
-    if ans == "end":
-        break
+#order = ("")
+#while True:
+#    ans = input("what is your order?")
+#    if ans == "end":
+#        break
