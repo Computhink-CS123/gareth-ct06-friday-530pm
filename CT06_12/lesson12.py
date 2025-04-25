@@ -27,4 +27,4 @@
 
 import random
 while True:
-    ask
+    print
