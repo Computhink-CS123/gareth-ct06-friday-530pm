@@ -25,6 +25,7 @@
 #    if ans == "end":
 #        break
 
+counter = 0
 import random
 for char in range(10):
     num1 = random.randint(1,10)
@@ -36,3 +37,4 @@ for char in range(10):
         print ("wrong")
     else :
         print ("correct")
+        
