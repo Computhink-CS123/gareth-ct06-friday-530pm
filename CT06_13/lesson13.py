@@ -10,4 +10,5 @@ while True:
         draw = int(input("how much money would you like to withdraw? "))
         if draw <= 1000:
             cash = cash - draw
-            print("")
+            print("here is you money")
+            
