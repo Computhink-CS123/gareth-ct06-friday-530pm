@@ -37,4 +37,4 @@ for char in range(10):
         print ("wrong")
     else :
         print ("correct")
-        
+        counter = counter + 1
