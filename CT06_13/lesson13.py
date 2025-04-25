@@ -12,4 +12,6 @@ while True:
             cash = cash - draw
             print("here is you money")
         else:
-            print("Err0r!Insufision funds")
+            print("Err0r!Insufision funds!")
+    elif ask == "2":
+        dep 
