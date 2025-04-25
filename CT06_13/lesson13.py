@@ -6,3 +6,5 @@ while True:
     elif ask == "4":
         print ("thank you!")
         break
+    elif ask == "1":
+        draw = input()
