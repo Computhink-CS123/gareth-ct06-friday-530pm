@@ -57,3 +57,4 @@ while True:
         print ("i want four! >:(")
     else:
         print ("yay!we have a four!:)")
+        break
