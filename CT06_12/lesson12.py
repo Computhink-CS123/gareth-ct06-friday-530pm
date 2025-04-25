@@ -27,5 +27,5 @@
 
 import random
 while True:
-    
+    num1 = ran
     print 
