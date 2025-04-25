@@ -32,10 +32,9 @@ for char in range(10):
     num2 = random.randint(1,10)
     raneq = random.randint(1,3)
     if raneq == 1:
-        ranq
-    ans = input("what is " + str(num1) + " + " + str(num2))
-    ans = int(ans)
-    truans = num1 + num2
+        ans = input("what is " + str(num1) + " + " + str(num2))
+        ans = int(ans)
+        truans = num1 + num2
     if not ans == truans:
         print ("wrong")
     else :
