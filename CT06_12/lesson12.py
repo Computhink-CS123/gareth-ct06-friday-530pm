@@ -25,27 +25,26 @@
 #    if ans == "end":
 #        break
 
-counter = 0
-import random
-for char in range(10):
-    num1 = random.randint(10,20)
-    num2 = random.randint(1,10)
-    raneq = random.randint(1,3)
-    if raneq == 1:
-        ans = input("what is " + str(num1) + " + " + str(num2) + "? ")
-        ans = int(ans)
-        truans = num1 + num2
-    elif raneq == 2:
-        ans = input("what is " + str(num1) + " - " + str(num2) + "? ")
-        ans = int(ans)
-        truans = num1 - num2
-    elif raneq == 3:
-        ans = input("what is " + str(num1) + " x " + str(num2) + "? ")
-        ans = int(ans)
-        truans = num1 * num2
-    if not ans == truans:
-        print ("wrong")
-    else :
-        print ("correct")
-        counter = counter + 1
-print (counter)
+#counter = 0
+#import random
+#for char in range(10):
+#    num1 = random.randint(10,20)
+#    num2 = random.randint(1,10)
+#    raneq = random.randint(1,3)
+#        ans = input("what is " + str(num1) + " + " + str(num2) + "? ")
+#        ans = int(ans)
+#        truans = num1 + num2
+#    elif raneq == 2:
+#        ans = input("what is " + str(num1) + " - " + str(num2) + "? ")
+#       ans = int(ans)
+#        truans = num1 - num2
+#    elif raneq == 3:
+#        ans = input("what is " + str(num1) + " x " + str(num2) + "? ")
+#        ans = int(ans)
+#        truans = num1 * num2
+#    if not ans == truans:
+#        print ("wrong")
+#    else :
+#        print ("correct")
+#        counter = counter + 1
+#print (counter)
