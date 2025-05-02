@@ -26,3 +26,4 @@ groceries.append("ice")
 groceries.insert(1,"banana")
 print (groceries)
 #create a list with "name" = ["",""]
+#
