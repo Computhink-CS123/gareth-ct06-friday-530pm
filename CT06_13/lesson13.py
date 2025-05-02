@@ -44,5 +44,5 @@ while True:
     if items == "end":
         break
     else:
-        groceries = groceries + items,
+        groceries = groceries + [items,]
         print(groceries)
