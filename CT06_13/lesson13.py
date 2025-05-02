@@ -45,3 +45,4 @@ while True:
         break
     else:
         groceries = [items,]
+        print(groceries)
