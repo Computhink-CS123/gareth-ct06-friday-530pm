@@ -28,4 +28,4 @@ print (groceries)
 #create a list with "name" = ["",""]
 #to change a name list:"list name"[no.] = "name"
 #to insert a name into list:"list name".insert(no.,"name")
-#t
+#to take out a name in
