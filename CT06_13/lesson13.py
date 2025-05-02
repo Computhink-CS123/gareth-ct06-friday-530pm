@@ -10,10 +10,9 @@ while True:
         draw = int(input("how much money would you like to withdraw? "))
         if draw <= 1000:
             cash = cash - draw
-            print("here is you money")
+            print("here is your money")
         else:
             print("Err0r!Insufision balance!")
     elif ask == "2":
         depo = int(input("how much money would you like to deposit?"))
         cash = cash + depo
-        
