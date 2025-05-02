@@ -27,4 +27,4 @@ groceries.insert(1,"banana")
 print (groceries)
 #create a list with "name" = ["",""]
 #to change a name list:"list name"[no.] = "name"
-#to insert a name into list:
+#to insert a name into list:"list name".insert
