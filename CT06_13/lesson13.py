@@ -14,4 +14,4 @@ while True:
         else:
             print("Err0r!Insufision balance!")
     elif ask == "2":
-        depo = int(input())
+        depo = int(input("how much"))
