@@ -18,4 +18,4 @@
 #        cash = cash + depo
 
 
-groceries = ["Apples","Bread","Carrots","Dates","Eggs","Flour","Grapes",""]
+groceries = ["Apples","Bread","Carrots","Dates","Eggs","Flour","Grapes","Honey"]
