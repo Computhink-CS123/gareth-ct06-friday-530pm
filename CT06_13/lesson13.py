@@ -20,5 +20,5 @@
 
 groceries = ["Apples", "Bread","Carrots","Dates","Eggs","Flour","Grapes","Honey"]
 groceries.append("ice")
-groceries.insert
+groceries.insert(1,b)
 print (groceries)
