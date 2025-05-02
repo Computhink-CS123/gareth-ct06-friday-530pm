@@ -18,3 +18,4 @@
 #        cash = cash + depo
 
 
+groceries = []
