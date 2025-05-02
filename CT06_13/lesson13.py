@@ -18,7 +18,7 @@
 #        cash = cash + depo
 
 
-groceries = ["Apples", "Bread","Carrots","Dates","Eggs","Flour","Grapes","Honey"]
+#groceries = ["Apples", "Bread","Carrots","Dates","Eggs","Flour","Grapes","Honey"]
 #print(groceries)
 #groceries[7] = "herbs"
 #print(groceries)
@@ -30,11 +30,14 @@ groceries = ["Apples", "Bread","Carrots","Dates","Eggs","Flour","Grapes","Honey"
 #to insert a name into list:"list name".insert(no.,"name")
 #to take out a name in a list :"list name".pop(no.)
 
-for a in groceries:
-    if a == "Apples":
-        print(str(a) + ": I need 5 of these")
-    elif a == "Carrots":
-        print(str(a) + ": I need 3 of these")
-    elif a == "Grapes":
-        print(str(a) + ": Get the FarmFresh brand")
-    
+#for a in groceries:
+#    if a == "Apples":
+#        print(str(a) + ": I need 5 of these")
+#    elif a == "Carrots":
+#        print(str(a) + ": I need 3 of these")
+#    elif a == "Grapes":
+#        print(str(a) + ": Get the FarmFresh brand")
+
+
+while True:
+    groceries
