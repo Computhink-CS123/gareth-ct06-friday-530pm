@@ -41,4 +41,4 @@
 
 while True:
     items = input("What item have you added to your basket?")
-
+    gr
