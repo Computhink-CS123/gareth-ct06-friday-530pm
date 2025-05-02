@@ -44,5 +44,5 @@ while True:
     if items == "end":
         break
     else:
-        groceries.insert
+        groceries.insert[0]=items
         print(groceries)
