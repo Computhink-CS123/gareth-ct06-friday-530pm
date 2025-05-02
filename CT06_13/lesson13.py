@@ -19,13 +19,17 @@
 
 
 groceries = ["Apples", "Bread","Carrots","Dates","Eggs","Flour","Grapes","Honey"]
-print(groceries)
-groceries[7] = "herbs"
-print(groceries)
-groceries.append("ice")
-groceries.insert(1,"banana")
-print (groceries)
+#print(groceries)
+#groceries[7] = "herbs"
+#print(groceries)
+#groceries.append("ice")
+#groceries.insert(1,"banana")
+#print (groceries)
 #create a list with "name" = ["",""]
 #to change a name list:"list name"[no.] = "name"
 #to insert a name into list:"list name".insert(no.,"name")
 #to take out a name in a list :"list name".pop(no.)
+
+for a in groceries:
+    if groceries == "Apples":
+        print
