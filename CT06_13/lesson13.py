@@ -21,6 +21,7 @@
 groceries = ["Apples", "Bread","Carrots","Dates","Eggs","Flour","Grapes","Honey"]
 print(groceries)
 groceries[7] = "herbs"
+print()
 groceries.append("ice")
 groceries.insert(1,"banana")
 print (groceries)
