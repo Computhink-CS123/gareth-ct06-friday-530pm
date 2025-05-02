@@ -38,7 +38,7 @@
 #    elif a == "Grapes":
 #        print(str(a) + ": Get the FarmFresh brand")
 
-
+groceries
 while True:
     items = input("What item have you added to your basket?")
     if items == "end":
