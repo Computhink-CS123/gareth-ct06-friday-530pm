@@ -33,4 +33,5 @@ groceries = ["Apples", "Bread","Carrots","Dates","Eggs","Flour","Grapes","Honey"
 for a in groceries:
     if groceries == "Apples":
         print(": I need 5 of these")
-        
+    elif groceries == "Carrots":
+        print("")
