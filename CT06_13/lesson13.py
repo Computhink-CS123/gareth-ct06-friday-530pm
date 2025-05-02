@@ -20,7 +20,7 @@
 
 groceries = ["Apples", "Bread","Carrots","Dates","Eggs","Flour","Grapes","Honey"]
 print(groceries)
-groceries[]
+groceries[7] = "herbs"
 groceries.append("ice")
 groceries.insert(1,"banana")
 print (groceries)
