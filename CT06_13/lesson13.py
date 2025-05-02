@@ -8,7 +8,7 @@ while True:
         break
     elif ask == "1":
         draw = int(input("how much money would you like to withdraw? "))
-        if draw <= 1000:
+        if draw <= cash:
             cash = cash - draw
             print("here is your money")
         else:
