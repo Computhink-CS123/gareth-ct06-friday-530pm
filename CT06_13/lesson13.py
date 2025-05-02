@@ -19,5 +19,6 @@
 
 
 groceries = ["Apples", "Bread","Carrots","Dates","Eggs","Flour","Grapes","Honey"]
-groceries.append("")
+groceries.append("ice")
+
 print (groceries)
