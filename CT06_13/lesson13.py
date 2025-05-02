@@ -40,4 +40,4 @@
 
 
 while True:
-    groceries
+    groceries = input("What item have you added to your basket?")
