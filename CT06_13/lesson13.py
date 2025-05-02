@@ -30,10 +30,10 @@ groceries = ["Apples", "Bread","Carrots","Dates","Eggs","Flour","Grapes","Honey"
 #to insert a name into list:"list name".insert(no.,"name")
 #to take out a name in a list :"list name".pop(no.)
 
-for a in groceries:
-    if groceries == "Apples":
-        print(": I need 5 of these")
-    elif groceries == "Carrots":
-        print(": I need 3 of these")
-    elif groceries == "Grapes":
-        print(": Get the FarmFresh brand")
+#for a in groceries:
+#    if groceries == "Apples":
+#        print(": I need 5 of these")
+ #   elif groceries == "Carrots":
+  #      print(": I need 3 of these")
+#    elif groceries == "Grapes":
+#        print(": Get the FarmFresh brand")
