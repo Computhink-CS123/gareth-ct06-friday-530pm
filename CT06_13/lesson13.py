@@ -43,4 +43,5 @@ while True:
     items = input("What item have you added to your basket?")
     if items == "end":
         break
-    groceries = [items,]
+    else:
+        groceries = [items,]
