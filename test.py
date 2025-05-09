@@ -8,7 +8,8 @@
 # Write your code here
 num = 10
 while num < 201:
-    print
+    print(num)
+    
 
 
 
