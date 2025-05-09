@@ -9,7 +9,7 @@
 num = 10
 while num < 201:
     print(num)
-    num 
+    num = num + 10
 
 
 
