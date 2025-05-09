@@ -30,7 +30,7 @@ ans = input("enter the password")
 if password == ans:
     print ("Access Granted")
 else:
-    print("")
+    print("Access Denied")
 
 
 
