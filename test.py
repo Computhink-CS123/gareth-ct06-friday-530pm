@@ -28,7 +28,9 @@ while num < 201:
 password = "superpass123"
 ans = input("enter the password")
 if password == ans:
-    print ("correct")
+    print ("Access Granted")
+else:
+    print()
 
 
 
