@@ -4,7 +4,7 @@ window.setup(width=400,height=400)
 skibidi= turtle.Turtle()
 skibidi.speed(100)
 skibidi.shape("turtle")
-c
+skibidi.goto(0,0)
 #skibidi.up()
 #while skibidi.xcor() < 190:
 #    skibidi.forward(1)
