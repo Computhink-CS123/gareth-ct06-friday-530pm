@@ -11,16 +11,15 @@ skibidi.goto(0,0)
 #
 #skibidi.down()
 #skibidi.seth(90)
-3
-while skibidi.ycor() < 190:
-    skibidi.forward(1)
-
-skibidi.seth(180)
-
-while skibidi.xcor() > -190:
-    skibidi.forward(1)
-
-skibidi.seth(270)
+#
+#while skibidi.ycor() < 190:
+#    skibidi.forward(1)
+##
+#skibidi.seth(180)
+#
+#while skibidi.xcor() > -190:
+#    skibidi.forward(1)
+#skibidi.seth(270)
 while skibidi.ycor() > -190:
     skibidi.forward(1)
 
