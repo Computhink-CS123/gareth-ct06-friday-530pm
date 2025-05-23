@@ -5,4 +5,4 @@ skibidi= turtle.Turtle()
 skibidi.speed(100)
 skibidi.goto(0,0)
 skibidi.forward(10)
-
+window.mainloop
