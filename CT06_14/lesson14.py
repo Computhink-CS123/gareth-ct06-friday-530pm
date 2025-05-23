@@ -7,4 +7,6 @@ skibidi.goto(0,0)
 while skibidi.xcor() <200:
     skibidi.forward(1)
 
+skibidi.down
+
 window.mainloop()
