@@ -8,6 +8,9 @@ while skibidi.xcor() <200:
     skibidi.forward(1)
 
 skibidi.down()
-skibidi.seth
+skibidi.seth(90)
+
+while skibidi.ycor() < 198:
+    da
 
 window.mainloop()
