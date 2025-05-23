@@ -16,14 +16,14 @@ while skibidi.ycor() < 190:
 
 skibidi.seth(180)
 
-while skibidi.xcor() > -198:
+while skibidi.xcor() > -190:
     skibidi.forward(1)
 
 skibidi.seth(270)
-while skibidi.ycor() > -198:
+while skibidi.ycor() > -190:
     skibidi.forward(1)
 skibidi.seth(0)
-while skibidi.xcor() < -198:
+while skibidi.xcor() < -190:
     skibidi.forward(1)
 skibidi.seth(90)
 while skibidi.ycor() < 198:
