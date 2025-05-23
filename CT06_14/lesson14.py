@@ -3,7 +3,7 @@ window=turtle.Screen()
 window.setup(width=400,height=400)
 skibidi= turtle.Turtle()
 skibidi.speed(100)
-skibidi.shape(turtle)
+skibidi.shape(Turtle)
 skibidi.goto(0,0)
 while skibidi.xcor() <200:
     skibidi.forward(1)
