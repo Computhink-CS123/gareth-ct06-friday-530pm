@@ -11,6 +11,6 @@ skibidi.down()
 skibidi.seth(90)
 
 while skibidi.ycor() < 198:
-    da
+    skibidi
 
 window.mainloop()
