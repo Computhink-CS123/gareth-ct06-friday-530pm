@@ -9,7 +9,7 @@ skibidi.penup()
 while skibidi.xcor() <190:
     skibidi.forward(1)
 
-s
+skibidi.pendown
 skibidi.down()
 skibidi.seth(90)
 
