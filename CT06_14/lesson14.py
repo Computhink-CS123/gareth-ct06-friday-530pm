@@ -14,5 +14,7 @@ while skibidi.ycor() < 198:
     skibidi.forward(1)
 
 skibidi.seth(180)
-whu
+
+while skibidi.xcor() > -198:
+    
 window.mainloop()
