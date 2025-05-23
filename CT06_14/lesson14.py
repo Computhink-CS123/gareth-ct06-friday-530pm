@@ -1,3 +1,3 @@
 import turtle
 window=turtle.Screen()
-window.setup(width=400,)
+window.setup(width=400,height=400)
