@@ -5,6 +5,6 @@ skibidi= turtle.Turtle()
 skibidi.speed(100)
 skibidi.goto(0,0)
 while skibidi.xcor() <200:
-    skibidi.forward
+    skibidi.forward(1)
 
 window.mainloop()
