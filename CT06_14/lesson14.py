@@ -30,3 +30,5 @@ skibidi.goto(0,0)
 #while skibidi.ycor() < 0:
 #    skibidi.forward(1)
 #window.mainloop()
+
+
