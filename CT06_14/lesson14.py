@@ -6,7 +6,7 @@ skibidi.speed(100)
 skibidi.shape("turtle")
 skibidi.goto(0,0)
 skibidi.up()
-while skibidi.xcor() <190:
+while skibidi.xcor() < 190:
     skibidi.forward(1)
 
 skibidi.down()
