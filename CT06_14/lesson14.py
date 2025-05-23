@@ -5,13 +5,13 @@ skibidi= turtle.Turtle()
 skibidi.speed(100)
 skibidi.shape("turtle")
 skibidi.goto(0,0)
-while skibidi.xcor() <200:
+while skibidi.xcor() <190:
     skibidi.forward(1)
 
 skibidi.down()
 skibidi.seth(90)
 
-while skibidi.ycor() < 198:
+while skibidi.ycor() < 190:
     skibidi.forward(1)
 
 skibidi.seth(180)
