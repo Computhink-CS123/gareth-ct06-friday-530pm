@@ -13,6 +13,6 @@ skibidi.seth(90)
 while skibidi.ycor() < 198:
     skibidi.forward(1)
 
-skibidi.seth
-
+skibidi.seth(180)
+whu
 window.mainloop()
